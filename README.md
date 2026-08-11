@@ -1,114 +1,93 @@
-<h1 align="center">Hi 👋, I'm Pratap</h1>
+<!--
+  GitHub Profile README for github.com/pratap495
+  Replace every YOUR_* placeholder below before publishing contact/project links.
+-->
 
-<h3 align="center">
-Full-Stack Developer | AI Builder | Cloud & DevOps
-</h3>
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Pratap — Full-Stack Developer, AI Builder, and Cloud Engineer" />
+</div>
 
-<p align="center">
-Building scalable web applications, mobile applications and AI-powered products.
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=35D9FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=850&amp;lines=Building+Production-Ready+Applications...;Engineering+Scalable+Backend+Systems...;Building+AI-Powered+Products...;Turning+Ideas+Into+Real+Systems..." alt="Animated developer focus statements" />
+  </a>
+</div>
 
----
+<!-- Replace YOUR_LINKEDIN_URL, YOUR_PORTFOLIO_URL, YOUR_EMAIL, and YOUR_RESUME_URL. -->
+<div align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=35D9FF" alt="LinkedIn" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=A78BFA" alt="Portfolio" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=34D399" alt="Email" /></a>
+  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&amp;logo=readme&amp;logoColor=FB923C" alt="Resume" /></a>
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratap495&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Pratap's profile view count" />
+</div>
 
-- 💻 Full-Stack Developer working with modern web and mobile technologies
-- 🤖 Exploring AI, RAG and intelligent automation
-- ☁️ Building and deploying applications using cloud infrastructure
-- 🐳 Working with Docker and microservice-based architectures
-- 📱 Building cross-platform applications with React Native
-- ⚡ Interested in scalable SaaS products and developer tools
+<br />
 
----
+<div align="center">
+  <img src="./assets/tech-arsenal.svg" width="100%" alt="Pratap's technology arsenal: languages, frontend, backend, databases, cloud, and DevOps" />
+</div>
 
-## 🛠️ Technology Stack
+<br />
 
-### Frontend
+<!-- Replace the four project URL placeholders with public repository or product URLs. -->
+<div align="center">
+  <img src="./assets/featured-projects.svg" width="100%" alt="Featured projects: HostelMint, AI Systems, ERP and POS, and FamilyMediaHub" />
+</div>
 
-`React` `React Native` `JavaScript` `TypeScript` `HTML` `CSS`
+<div align="center">
+  <a href="YOUR_HOSTELMINT_URL">HOSTELMINT</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="YOUR_AI_SYSTEMS_URL">AI SYSTEMS</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="YOUR_ERP_POS_URL">ERP + POS</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="YOUR_FAMILYMEDIAHUB_URL">FAMILYMEDIAHUB</a>
+</div>
 
-### Backend
+## 📊 GitHub Analytics
 
-`Python` `FastAPI` `REST APIs`
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratap495&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=35D9FF&amp;icon_color=A78BFA&amp;text_color=C9D1D9" alt="Pratap's GitHub statistics" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratap495&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=35D9FF&amp;text_color=C9D1D9" alt="Pratap's most-used GitHub languages" />
+</div>
 
-### Database
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=pratap495&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=35D9FF&amp;fire=FB923C&amp;currStreakLabel=A78BFA" alt="Pratap's GitHub contribution streak" />
+</div>
 
-`PostgreSQL` `MySQL` `SQL`
+## 🏆 GitHub Trophies
 
-### Cloud & DevOps
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=pratap495&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=-1" alt="Pratap's GitHub trophies" />
+</div>
 
-`AWS` `Docker` `Git` `GitHub` `Nginx` `Linux`
+<br />
 
-### AI
+<div align="center">
+  <img src="./assets/mission.svg" width="100%" alt="Current mission and skill progress for full-stack, backend, cloud, DevOps, and AI engineering" />
+</div>
 
-`LLM APIs` `RAG` `AI Agents` `Vector Search`
+## 🐍 Contribution Activity
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pratap495/pratap495/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through Pratap's GitHub contribution graph" />
+</div>
 
-## 🚀 Featured Projects
+<br />
 
-### 🏢 HostelMint
+<div align="center">
+  <pre>┌──────────────────────────────────────────────────────────────┐
+│  "The best way to predict the future is to build it."       │
+│                                                              │
+│  Thanks for visiting!                                        │
+│  Let's build something amazing together.                     │
+└──────────────────────────────────────────────────────────────┘</pre>
 
-Multi-tenant hostel/PG management SaaS platform.
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=35D9FF" alt="Connect on LinkedIn" /></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=A78BFA" alt="Visit portfolio" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=34D399" alt="Send an email" /></a>
+  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&amp;logo=readme&amp;logoColor=FB923C" alt="View resume" /></a>
 
-**Architecture:** Microservices  
-**Backend:** Python / FastAPI  
-**Database:** PostgreSQL  
-**Infrastructure:** Docker
-
----
-
-### 🤖 AI Applications
-
-AI-powered applications involving:
-
-- Retrieval-Augmented Generation
-- Document Question Answering
-- AI Agents
-- LLM APIs
-- Automation
-
----
-
-### 🛒 ERP & POS
-
-Business management ecosystem covering:
-
-- Inventory
-- Billing
-- Sales
-- Returns
-- Customer management
-- Notifications
-- Reporting
-
----
-
-### 📱 FamilyMediaHub
-
-Cross-platform family media management application.
-
-**Frontend:** React Native / Expo  
-**Backend:** FastAPI  
-**Database:** PostgreSQL
-
----
-
-## 📊 GitHub Activity
-
-GitHub statistics and contribution analytics can be displayed here.
-
----
-
-## 🎯 Current Focus
-
-```text
-AI Agents
-   +
-Full-Stack Development
-   +
-Cloud Infrastructure
-   +
-Microservices
-   ↓
-Production-Ready SaaS Products
+  <sub>Designed and built by <a href="https://github.com/pratap495">Pratap</a> · STATUS: BUILDING THE FUTURE ⚡</sub>
+</div>

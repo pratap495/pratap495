@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="600" viewBox="0 0 1100 600" role="img" aria-labelledby="title desc">
+  <title id="title">Tech Arsenal</title>
+  <desc id="desc">Dashboard cards listing Pratap's languages, frontend, backend, databases, cloud, and DevOps tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A12"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="0.5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#164E63" stroke-width="0.5" opacity="0.2"/></pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="1098" height="598" rx="22" fill="url(#bg)" stroke="#164E63" stroke-width="2"/>
+  <rect x="1" y="1" width="1098" height="598" rx="22" fill="url(#grid)"/>
+  <text x="42" y="55" fill="#22D3EE" font-family="monospace" font-size="13" letter-spacing="3">[ SYSTEM CAPABILITIES ]</text>
+  <text x="42" y="101" fill="#E2E8F0" font-family="monospace" font-size="31" font-weight="700">TECH ARSENAL</text>
+  <text x="1058" y="82" text-anchor="end" fill="#34D399" font-family="monospace" font-size="11">ALL MODULES OPERATIONAL ●</text>
+  <rect x="42" y="119" width="1016" height="2" fill="url(#rule)"/>
+
+  <!-- Languages -->
+  <g transform="translate(42 151)">
+    <rect width="316" height="180" rx="16" fill="#0A101B" stroke="#155E75"/>
+    <rect width="5" height="180" rx="3" fill="#22D3EE"/>
+    <text x="25" y="34" fill="#67E8F9" font-family="monospace" font-size="12" letter-spacing="2">01 // LANGUAGES</text>
+    <line x1="25" y1="50" x2="291" y2="50" stroke="#123047"/>
+    <g font-family="monospace" font-size="13">
+      <rect x="25" y="69" width="78" height="34" rx="7" fill="#0C1A28" stroke="#1D4ED8"/><text x="64" y="91" text-anchor="middle" fill="#BFDBFE">Python</text>
+      <rect x="113" y="69" width="104" height="34" rx="7" fill="#181807" stroke="#CA8A04"/><text x="165" y="91" text-anchor="middle" fill="#FDE047">JavaScript</text>
+      <rect x="25" y="113" width="104" height="34" rx="7" fill="#071727" stroke="#0284C7"/><text x="77" y="135" text-anchor="middle" fill="#7DD3FC">TypeScript</text>
+      <rect x="139" y="113" width="54" height="34" rx="7" fill="#10141C" stroke="#64748B"/><text x="166" y="135" text-anchor="middle" fill="#CBD5E1">SQL</text>
+      <rect x="203" y="113" width="70" height="34" rx="7" fill="#1A0B0B" stroke="#EA580C"/><text x="238" y="135" text-anchor="middle" fill="#FDBA74">HTML</text>
+    </g>
+  </g>
+
+  <!-- Frontend -->
+  <g transform="translate(392 151)">
+    <rect width="316" height="180" rx="16" fill="#0A101B" stroke="#3730A3"/>
+    <rect width="5" height="180" rx="3" fill="#8B5CF6"/>
+    <text x="25" y="34" fill="#C4B5FD" font-family="monospace" font-size="12" letter-spacing="2">02 // FRONTEND</text>
+    <line x1="25" y1="50" x2="291" y2="50" stroke="#29234D"/>
+    <g font-family="monospace" font-size="13">
+      <rect x="25" y="69" width="76" height="34" rx="7" fill="#071923" stroke="#0891B2"/><text x="63" y="91" text-anchor="middle" fill="#67E8F9">React</text>
+      <rect x="111" y="69" width="120" height="34" rx="7" fill="#071923" stroke="#0891B2"/><text x="171" y="91" text-anchor="middle" fill="#67E8F9">React Native</text>
+      <rect x="25" y="113" width="66" height="34" rx="7" fill="#111827" stroke="#6366F1"/><text x="58" y="135" text-anchor="middle" fill="#A5B4FC">Expo</text>
+      <rect x="101" y="113" width="64" height="34" rx="7" fill="#17102B" stroke="#8B5CF6"/><text x="133" y="135" text-anchor="middle" fill="#C4B5FD">Vite</text>
+      <rect x="175" y="113" width="100" height="34" rx="7" fill="#071923" stroke="#06B6D4"/><text x="225" y="135" text-anchor="middle" fill="#67E8F9">Tailwind</text>
+    </g>
+  </g>
+
+  <!-- Backend -->
+  <g transform="translate(742 151)">
+    <rect width="316" height="180" rx="16" fill="#0A101B" stroke="#166534"/>
+    <rect width="5" height="180" rx="3" fill="#34D399"/>
+    <text x="25" y="34" fill="#6EE7B7" font-family="monospace" font-size="12" letter-spacing="2">03 // BACKEND</text>
+    <line x1="25" y1="50" x2="291" y2="50" stroke="#143624"/>
+    <g font-family="monospace" font-size="13">
+      <rect x="25" y="69" width="92" height="34" rx="7" fill="#071A14" stroke="#10B981"/><text x="71" y="91" text-anchor="middle" fill="#6EE7B7">FastAPI</text>
+      <rect x="127" y="69" width="88" height="34" rx="7" fill="#0C180B" stroke="#22C55E"/><text x="171" y="91" text-anchor="middle" fill="#86EFAC">Node.js</text>
+      <rect x="25" y="113" width="96" height="34" rx="7" fill="#0B1420" stroke="#3B82F6"/><text x="73" y="135" text-anchor="middle" fill="#93C5FD">REST APIs</text>
+      <rect x="131" y="113" width="126" height="34" rx="7" fill="#11101E" stroke="#7C3AED"/><text x="194" y="135" text-anchor="middle" fill="#C4B5FD">Microservices</text>
+    </g>
+  </g>
+
+  <!-- Databases -->
+  <g transform="translate(42 361)">
+    <rect width="398" height="174" rx="16" fill="#0A101B" stroke="#1D4ED8"/>
+    <rect width="5" height="174" rx="3" fill="#3B82F6"/>
+    <text x="25" y="34" fill="#93C5FD" font-family="monospace" font-size="12" letter-spacing="2">04 // DATABASES</text>
+    <line x1="25" y1="50" x2="373" y2="50" stroke="#172554"/>
+    <g font-family="monospace" font-size="13">
+      <rect x="25" y="72" width="138" height="42" rx="8" fill="#071727" stroke="#0284C7"/><circle cx="45" cy="93" r="6" fill="#38BDF8"/><text x="101" y="98" text-anchor="middle" fill="#BAE6FD">PostgreSQL</text>
+      <rect x="175" y="72" width="108" height="42" rx="8" fill="#171006" stroke="#F59E0B"/><circle cx="195" cy="93" r="6" fill="#FBBF24"/><text x="238" y="98" text-anchor="middle" fill="#FDE68A">MySQL</text>
+    </g>
+    <text x="25" y="146" fill="#64748B" font-family="monospace" font-size="11">RELATIONAL DATA // PRODUCTION SYSTEMS</text>
+  </g>
+
+  <!-- Cloud and DevOps -->
+  <g transform="translate(474 361)">
+    <rect width="584" height="174" rx="16" fill="#0A101B" stroke="#9A3412"/>
+    <rect width="5" height="174" rx="3" fill="#FB923C"/>
+    <text x="25" y="34" fill="#FDBA74" font-family="monospace" font-size="12" letter-spacing="2">05 // CLOUD &amp; DEVOPS</text>
+    <line x1="25" y1="50" x2="559" y2="50" stroke="#422006"/>
+    <g font-family="monospace" font-size="13">
+      <rect x="25" y="72" width="66" height="42" rx="8" fill="#1A1008" stroke="#F59E0B"/><text x="58" y="98" text-anchor="middle" fill="#FDE68A">AWS</text>
+      <rect x="101" y="72" width="88" height="42" rx="8" fill="#071727" stroke="#0EA5E9"/><text x="145" y="98" text-anchor="middle" fill="#7DD3FC">Docker</text>
+      <rect x="199" y="72" width="74" height="42" rx="8" fill="#111827" stroke="#64748B"/><text x="236" y="98" text-anchor="middle" fill="#CBD5E1">Linux</text>
+      <rect x="283" y="72" width="58" height="42" rx="8" fill="#1A0B0B" stroke="#F97316"/><text x="312" y="98" text-anchor="middle" fill="#FDBA74">Git</text>
+      <rect x="351" y="72" width="86" height="42" rx="8" fill="#111827" stroke="#94A3B8"/><text x="394" y="98" text-anchor="middle" fill="#E2E8F0">GitHub</text>
+      <rect x="447" y="72" width="84" height="42" rx="8" fill="#071711" stroke="#22C55E"/><text x="489" y="98" text-anchor="middle" fill="#86EFAC">Nginx</text>
+    </g>
+    <text x="25" y="146" fill="#64748B" font-family="monospace" font-size="11">SHIP // SCALE // OBSERVE // REPEAT</text>
+  </g>
+
+  <circle cx="1072" cy="25" r="4" fill="#34D399" filter="url(#glow)"/>
+  <text x="1058" y="570" text-anchor="end" fill="#475569" font-family="monospace" font-size="10">PRATAP495 / ARSENAL.v1</text>
+</svg>

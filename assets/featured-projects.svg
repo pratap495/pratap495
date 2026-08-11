@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="720" viewBox="0 0 1100 720" role="img" aria-labelledby="title desc">
+  <title id="title">Featured Projects</title>
+  <desc id="desc">Four futuristic project cards for HostelMint, AI Systems, ERP and POS, and FamilyMediaHub.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A12"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#164E63" opacity="0.25"/></pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="1098" height="718" rx="22" fill="url(#bg)" stroke="#164E63" stroke-width="2"/>
+  <rect x="1" y="1" width="1098" height="718" rx="22" fill="url(#dots)"/>
+  <text x="42" y="50" fill="#22D3EE" font-family="monospace" font-size="12" letter-spacing="3">[ SELECTED BUILDS ]</text>
+  <text x="42" y="93" fill="#E2E8F0" font-family="monospace" font-size="30" font-weight="700">FEATURED PROJECTS</text>
+  <text x="1058" y="76" text-anchor="end" fill="#64748B" font-family="monospace" font-size="11">04 PROJECT MODULES // READY</text>
+
+  <!-- HostelMint -->
+  <g transform="translate(42 126)">
+    <rect width="492" height="256" rx="16" fill="#09111D" stroke="#2563EB" stroke-width="1.5"/>
+    <rect width="7" height="256" rx="4" fill="#3B82F6"/>
+    <circle cx="455" cy="35" r="8" fill="#2563EB" opacity="0.35"/><circle cx="455" cy="35" r="3" fill="#60A5FA" filter="url(#glow)"/>
+    <text x="29" y="34" fill="#60A5FA" font-family="monospace" font-size="11" letter-spacing="2">PROJECT // 01</text>
+    <text x="29" y="72" fill="#EFF6FF" font-family="monospace" font-size="24" font-weight="700">HOSTELMINT</text>
+    <text x="29" y="97" fill="#93C5FD" font-family="monospace" font-size="12">MULTI-TENANT SAAS PLATFORM</text>
+    <line x1="29" y1="114" x2="463" y2="114" stroke="#1E3A5F"/>
+    <text x="29" y="139" fill="#94A3B8" font-family="sans-serif" font-size="12">A scalable hostel / PG management platform built for</text>
+    <text x="29" y="157" fill="#94A3B8" font-family="sans-serif" font-size="12">owners, managers and tenants.</text>
+    <text x="29" y="184" fill="#64748B" font-family="monospace" font-size="10">HOSTELS  •  ROOMS  •  TENANTS  •  FINANCE</text>
+    <text x="29" y="201" fill="#64748B" font-family="monospace" font-size="10">PAYMENTS  •  NOTIFICATIONS  •  MULTI-TENANCY</text>
+    <g font-family="monospace" font-size="10">
+      <rect x="29" y="218" width="67" height="24" rx="5" fill="#0B1D35" stroke="#1D4ED8"/><text x="62" y="234" text-anchor="middle" fill="#BFDBFE">FastAPI</text>
+      <rect x="104" y="218" width="83" height="24" rx="5" fill="#0B1D35" stroke="#1D4ED8"/><text x="145" y="234" text-anchor="middle" fill="#BFDBFE">PostgreSQL</text>
+      <rect x="195" y="218" width="60" height="24" rx="5" fill="#0B1D35" stroke="#1D4ED8"/><text x="225" y="234" text-anchor="middle" fill="#BFDBFE">Docker</text>
+      <rect x="263" y="218" width="90" height="24" rx="5" fill="#0B1D35" stroke="#1D4ED8"/><text x="308" y="234" text-anchor="middle" fill="#BFDBFE">Microservices</text>
+    </g>
+  </g>
+
+  <!-- AI Systems -->
+  <g transform="translate(566 126)">
+    <rect width="492" height="256" rx="16" fill="#100D1C" stroke="#7C3AED" stroke-width="1.5"/>
+    <rect width="7" height="256" rx="4" fill="#8B5CF6"/>
+    <circle cx="455" cy="35" r="8" fill="#7C3AED" opacity="0.35"/><circle cx="455" cy="35" r="3" fill="#C4B5FD" filter="url(#glow)"/>
+    <text x="29" y="34" fill="#A78BFA" font-family="monospace" font-size="11" letter-spacing="2">PROJECT // 02</text>
+    <text x="29" y="72" fill="#F5F3FF" font-family="monospace" font-size="24" font-weight="700">AI SYSTEMS</text>
+    <text x="29" y="97" fill="#C4B5FD" font-family="monospace" font-size="12">INTELLIGENT APPLICATIONS</text>
+    <line x1="29" y1="114" x2="463" y2="114" stroke="#312E81"/>
+    <text x="29" y="139" fill="#94A3B8" font-family="sans-serif" font-size="12">AI-powered applications using RAG, LLMs, embeddings,</text>
+    <text x="29" y="157" fill="#94A3B8" font-family="sans-serif" font-size="12">vector search and intelligent automation.</text>
+    <text x="29" y="184" fill="#64748B" font-family="monospace" font-size="10">RETRIEVE  →  REASON  →  GENERATE  →  AUTOMATE</text>
+    <g font-family="monospace" font-size="10">
+      <rect x="29" y="218" width="48" height="24" rx="5" fill="#18102D" stroke="#7C3AED"/><text x="53" y="234" text-anchor="middle" fill="#DDD6FE">RAG</text>
+      <rect x="85" y="218" width="52" height="24" rx="5" fill="#18102D" stroke="#7C3AED"/><text x="111" y="234" text-anchor="middle" fill="#DDD6FE">LLMs</text>
+      <rect x="145" y="218" width="76" height="24" rx="5" fill="#18102D" stroke="#7C3AED"/><text x="183" y="234" text-anchor="middle" fill="#DDD6FE">AI Agents</text>
+      <rect x="229" y="218" width="74" height="24" rx="5" fill="#18102D" stroke="#7C3AED"/><text x="266" y="234" text-anchor="middle" fill="#DDD6FE">Vector DB</text>
+    </g>
+  </g>
+
+  <!-- ERP + POS -->
+  <g transform="translate(42 414)">
+    <rect width="492" height="256" rx="16" fill="#08150F" stroke="#16A34A" stroke-width="1.5"/>
+    <rect width="7" height="256" rx="4" fill="#34D399"/>
+    <circle cx="455" cy="35" r="8" fill="#16A34A" opacity="0.35"/><circle cx="455" cy="35" r="3" fill="#6EE7B7" filter="url(#glow)"/>
+    <text x="29" y="34" fill="#34D399" font-family="monospace" font-size="11" letter-spacing="2">PROJECT // 03</text>
+    <text x="29" y="72" fill="#ECFDF5" font-family="monospace" font-size="24" font-weight="700">ERP + POS</text>
+    <text x="29" y="97" fill="#6EE7B7" font-family="monospace" font-size="12">BUSINESS MANAGEMENT ECOSYSTEM</text>
+    <line x1="29" y1="114" x2="463" y2="114" stroke="#14532D"/>
+    <text x="29" y="139" fill="#94A3B8" font-family="sans-serif" font-size="12">Business platform for inventory, billing, sales, returns,</text>
+    <text x="29" y="157" fill="#94A3B8" font-family="sans-serif" font-size="12">customers, notifications and reporting.</text>
+    <text x="29" y="184" fill="#64748B" font-family="monospace" font-size="10">INVENTORY  •  BILLING  •  SALES  •  REPORTING</text>
+    <g font-family="monospace" font-size="10">
+      <rect x="29" y="218" width="67" height="24" rx="5" fill="#0B2015" stroke="#16A34A"/><text x="62" y="234" text-anchor="middle" fill="#BBF7D0">FastAPI</text>
+      <rect x="104" y="218" width="83" height="24" rx="5" fill="#0B2015" stroke="#16A34A"/><text x="145" y="234" text-anchor="middle" fill="#BBF7D0">PostgreSQL</text>
+      <rect x="195" y="218" width="60" height="24" rx="5" fill="#0B2015" stroke="#16A34A"/><text x="225" y="234" text-anchor="middle" fill="#BBF7D0">Docker</text>
+      <rect x="263" y="218" width="72" height="24" rx="5" fill="#0B2015" stroke="#16A34A"/><text x="299" y="234" text-anchor="middle" fill="#BBF7D0">REST APIs</text>
+    </g>
+  </g>
+
+  <!-- FamilyMediaHub -->
+  <g transform="translate(566 414)">
+    <rect width="492" height="256" rx="16" fill="#181008" stroke="#EA580C" stroke-width="1.5"/>
+    <rect width="7" height="256" rx="4" fill="#FB923C"/>
+    <circle cx="455" cy="35" r="8" fill="#EA580C" opacity="0.35"/><circle cx="455" cy="35" r="3" fill="#FDBA74" filter="url(#glow)"/>
+    <text x="29" y="34" fill="#FB923C" font-family="monospace" font-size="11" letter-spacing="2">PROJECT // 04</text>
+    <text x="29" y="72" fill="#FFF7ED" font-family="monospace" font-size="24" font-weight="700">FAMILYMEDIAHUB</text>
+    <text x="29" y="97" fill="#FDBA74" font-family="monospace" font-size="12">CROSS-PLATFORM MOBILE APPLICATION</text>
+    <line x1="29" y1="114" x2="463" y2="114" stroke="#7C2D12"/>
+    <text x="29" y="139" fill="#94A3B8" font-family="sans-serif" font-size="12">Family media management application built using React</text>
+    <text x="29" y="157" fill="#94A3B8" font-family="sans-serif" font-size="12">Native, Expo, FastAPI and PostgreSQL.</text>
+    <text x="29" y="184" fill="#64748B" font-family="monospace" font-size="10">CAPTURE  →  ORGANIZE  →  SHARE  →  REMEMBER</text>
+    <g font-family="monospace" font-size="10">
+      <rect x="29" y="218" width="92" height="24" rx="5" fill="#251309" stroke="#EA580C"/><text x="75" y="234" text-anchor="middle" fill="#FED7AA">React Native</text>
+      <rect x="129" y="218" width="52" height="24" rx="5" fill="#251309" stroke="#EA580C"/><text x="155" y="234" text-anchor="middle" fill="#FED7AA">Expo</text>
+      <rect x="189" y="218" width="67" height="24" rx="5" fill="#251309" stroke="#EA580C"/><text x="222" y="234" text-anchor="middle" fill="#FED7AA">FastAPI</text>
+      <rect x="264" y="218" width="83" height="24" rx="5" fill="#251309" stroke="#EA580C"/><text x="305" y="234" text-anchor="middle" fill="#FED7AA">PostgreSQL</text>
+    </g>
+  </g>
+
+  <text x="550" y="699" text-anchor="middle" fill="#475569" font-family="monospace" font-size="10">BUILDING PRODUCTS THAT SOLVE REAL PROBLEMS // PRATAP495</text>
+</svg>

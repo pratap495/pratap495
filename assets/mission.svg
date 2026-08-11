@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-labelledby="title desc">
+  <title id="title">Current Mission</title>
+  <desc id="desc">Progress indicators for Pratap's engineering disciplines and a terminal-style mission statement.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A12"/><stop offset="1" stop-color="#0D1117"/></linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0EA5E9"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#164E63" stroke-width="0.5" opacity="0.2"/></pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="1098" height="518" rx="22" fill="url(#bg)" stroke="#164E63" stroke-width="2"/>
+  <rect x="1" y="1" width="1098" height="518" rx="22" fill="url(#grid)"/>
+  <text x="42" y="51" fill="#22D3EE" font-family="monospace" font-size="12" letter-spacing="3">[ ACTIVE OBJECTIVES ]</text>
+  <text x="42" y="94" fill="#E2E8F0" font-family="monospace" font-size="30" font-weight="700">CURRENT MISSION</text>
+  <text x="1058" y="75" text-anchor="end" fill="#34D399" font-family="monospace" font-size="11">FOCUS MODE // ENABLED ●</text>
+  <line x1="42" y1="118" x2="1058" y2="118" stroke="#164E63"/>
+
+  <g transform="translate(42 151)" font-family="monospace">
+    <text x="0" y="16" fill="#CBD5E1" font-size="13">FULL-STACK DEVELOPMENT</text><text x="594" y="16" text-anchor="end" fill="#67E8F9" font-size="13">90%</text>
+    <rect x="0" y="29" width="594" height="12" rx="6" fill="#111827" stroke="#1E3A5F"/><rect x="2" y="31" width="531" height="8" rx="4" fill="url(#bar)" filter="url(#glow)"/>
+    <text x="0" y="81" fill="#CBD5E1" font-size="13">BACKEND ENGINEERING</text><text x="594" y="81" text-anchor="end" fill="#67E8F9" font-size="13">85%</text>
+    <rect x="0" y="94" width="594" height="12" rx="6" fill="#111827" stroke="#1E3A5F"/><rect x="2" y="96" width="501" height="8" rx="4" fill="url(#bar)" filter="url(#glow)"/>
+    <text x="0" y="146" fill="#CBD5E1" font-size="13">CLOUD / DEVOPS</text><text x="594" y="146" text-anchor="end" fill="#67E8F9" font-size="13">75%</text>
+    <rect x="0" y="159" width="594" height="12" rx="6" fill="#111827" stroke="#1E3A5F"/><rect x="2" y="161" width="442" height="8" rx="4" fill="url(#bar)" filter="url(#glow)"/>
+    <text x="0" y="211" fill="#CBD5E1" font-size="13">AI ENGINEERING</text><text x="594" y="211" text-anchor="end" fill="#C4B5FD" font-size="13">75%</text>
+    <rect x="0" y="224" width="594" height="12" rx="6" fill="#111827" stroke="#312E81"/><rect x="2" y="226" width="442" height="8" rx="4" fill="#8B5CF6" filter="url(#glow)"/>
+  </g>
+
+  <g transform="translate(686 151)">
+    <rect width="372" height="252" rx="16" fill="#090D15" stroke="#312E81"/>
+    <rect width="372" height="42" rx="16" fill="#111827"/><line x1="0" y1="42" x2="372" y2="42" stroke="#312E81"/>
+    <circle cx="20" cy="21" r="4" fill="#FB7185"/><circle cx="35" cy="21" r="4" fill="#FBBF24"/><circle cx="50" cy="21" r="4" fill="#34D399"/>
+    <text x="350" y="26" text-anchor="end" fill="#64748B" font-family="monospace" font-size="10">mission.sh</text>
+    <g font-family="monospace" font-size="14">
+      <text x="26" y="78" fill="#34D399">&gt; <tspan fill="#CBD5E1">Write Code</tspan></text>
+      <text x="26" y="112" fill="#22D3EE">&gt; <tspan fill="#CBD5E1">Solve Problems</tspan></text>
+      <text x="26" y="146" fill="#A78BFA">&gt; <tspan fill="#CBD5E1">Build Products</tspan></text>
+      <text x="26" y="180" fill="#FB923C">&gt; <tspan fill="#CBD5E1">Help Developers</tspan></text>
+      <text x="26" y="214" fill="#F472B6">&gt; <tspan fill="#CBD5E1">Make Impact</tspan></text>
+    </g>
+    <rect x="25" y="229" width="10" height="3" fill="#22D3EE" filter="url(#glow)"/>
+  </g>
+
+  <rect x="42" y="437" width="1016" height="48" rx="10" fill="#07131F" stroke="#0E7490"/>
+  <circle cx="67" cy="461" r="6" fill="#34D399" filter="url(#glow)"/>
+  <text x="87" y="466" fill="#67E8F9" font-family="monospace" font-size="14" font-weight="700" letter-spacing="2">STATUS: BUILDING THE FUTURE... ⚡</text>
+  <text x="1032" y="466" text-anchor="end" fill="#475569" font-family="monospace" font-size="10">UPTIME: CONTINUOUS</text>
+</svg>
