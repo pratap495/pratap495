@@ -34,13 +34,13 @@
   <a href="https://github.com/pratap495?tab=repositories">ALL PROJECTS</a>
 </div>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img width="100%" src="./assets/github-analytics.svg" alt="Pratap's public GitHub statistics and most-used repository languages" />
 </div>
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img width="100%" src="./assets/github-trophies.svg" alt="Pratap's GitHub milestones" />
