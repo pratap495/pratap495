@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-banner.png" width="100%" alt="Pratap — Full-Stack Developer, AI Builder, and Cloud Engineer" />
+  <img src="./assets/hero-banner.png" width="100%" alt="Pratap — Full-Stack Developer, AI Builder, and CLOUD & CYBERSECURITY" />
 </div>
 
 <div align="center">
