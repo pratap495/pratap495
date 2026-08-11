@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="245" viewBox="0 0 1100 245" role="img" aria-labelledby="title desc">
+  <title id="title">Pratap's GitHub milestones</title>
+  <desc id="desc">Repository-owned milestone badges for public repositories, original builds, languages and profile history.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070a12"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect x="1" y="1" width="1098" height="243" rx="20" fill="url(#bg)" stroke="#164e63" stroke-width="2"/>
+  <text x="40" y="43" fill="#fbbf24" font-family="monospace" font-size="12" letter-spacing="3">[ MILESTONES UNLOCKED ]</text>
+  <text x="1060" y="43" text-anchor="end" fill="#64748b" font-family="monospace" font-size="10">PRATAP495 // TROPHY CASE</text>
+
+  <g font-family="monospace" text-anchor="middle">
+    <g transform="translate(55 68)"><rect width="220" height="135" rx="15" fill="#07131f" stroke="#22d3ee"/><path d="M110 17l26 15v30l-26 15-26-15V32z" fill="#062334" stroke="#22d3ee"/><text x="110" y="54" fill="#67e8f9" font-size="22" font-weight="700" filter="url(#glow)">41</text><text x="110" y="101" fill="#e2e8f0" font-size="12">PUBLIC REPOSITORIES</text><text x="110" y="121" fill="#475569" font-size="9">REPO EXPLORER</text></g>
+    <g transform="translate(312 68)"><rect width="220" height="135" rx="15" fill="#100d1c" stroke="#8b5cf6"/><path d="M110 17l26 15v30l-26 15-26-15V32z" fill="#1b1035" stroke="#8b5cf6"/><text x="110" y="54" fill="#c4b5fd" font-size="22" font-weight="700" filter="url(#glow)">40</text><text x="110" y="101" fill="#e2e8f0" font-size="12">ORIGINAL BUILDS</text><text x="110" y="121" fill="#475569" font-size="9">PRODUCT BUILDER</text></g>
+    <g transform="translate(569 68)"><rect width="220" height="135" rx="15" fill="#08150f" stroke="#34d399"/><path d="M110 17l26 15v30l-26 15-26-15V32z" fill="#082519" stroke="#34d399"/><text x="110" y="54" fill="#6ee7b7" font-size="22" font-weight="700" filter="url(#glow)">5</text><text x="110" y="101" fill="#e2e8f0" font-size="12">TOP LANGUAGES</text><text x="110" y="121" fill="#475569" font-size="9">POLYGLOT STACK</text></g>
+    <g transform="translate(826 68)"><rect width="220" height="135" rx="15" fill="#181008" stroke="#fb923c"/><path d="M110 17l26 15v30l-26 15-26-15V32z" fill="#291508" stroke="#fb923c"/><text x="110" y="54" fill="#fdba74" font-size="18" font-weight="700" filter="url(#glow)">2021</text><text x="110" y="101" fill="#e2e8f0" font-size="12">BUILDING SINCE</text><text x="110" y="121" fill="#475569" font-size="9">EARLY BUILDER</text></g>
+  </g>
+</svg>

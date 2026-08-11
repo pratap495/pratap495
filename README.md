@@ -37,18 +37,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratap495&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=35D9FF&amp;icon_color=A78BFA&amp;text_color=C9D1D9" alt="Pratap's GitHub statistics" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratap495&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=35D9FF&amp;text_color=C9D1D9" alt="Pratap's most-used GitHub languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=pratap495&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=35D9FF&amp;fire=FB923C&amp;currStreakLabel=A78BFA" alt="Pratap's GitHub contribution streak" />
+  <img width="100%" src="./assets/github-analytics.svg" alt="Pratap's public GitHub statistics and most-used repository languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=pratap495&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;column=-1" alt="Pratap's GitHub trophies" />
+  <img width="100%" src="./assets/github-trophies.svg" alt="Pratap's GitHub milestones" />
 </div>
 
 <br />
@@ -61,9 +56,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratap495/pratap495/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratap495/pratap495/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/pratap495/pratap495/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through Pratap's GitHub contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratap495/pratap495/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratap495/pratap495/gh-pages/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/pratap495/pratap495/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through Pratap's GitHub contribution graph" />
   </picture>
 </div>
 
