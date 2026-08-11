@@ -1,8 +1,3 @@
-<!--
-  GitHub Profile README for github.com/pratap495
-  Replace every YOUR_* placeholder below before publishing contact/project links.
--->
-
 <div align="center">
   <img src="./assets/hero.svg" width="100%" alt="Pratap — Full-Stack Developer, AI Builder, and Cloud Engineer" />
 </div>
@@ -13,15 +8,10 @@
   </a>
 </div>
 
-<!-- Replace YOUR_LINKEDIN_URL, YOUR_PORTFOLIO_URL, YOUR_EMAIL, and YOUR_RESUME_URL. -->
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=35D9FF" alt="LinkedIn" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=A78BFA" alt="Portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=34D399" alt="Email" /></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&amp;logo=readme&amp;logoColor=FB923C" alt="Resume" /></a>
-</div>
-
-<div align="center">
+  <a href="https://github.com/pratap495?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=35D9FF" alt="View Pratap's projects" /></a>
+  <a href="https://github.com/pratap495/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=A78BFA" alt="View Pratap's portfolio repository" /></a>
+  <a href="https://github.com/pratap495"><img src="https://img.shields.io/badge/FOLLOW-0D1117?style=for-the-badge&amp;logo=githubsponsors&amp;logoColor=F472B6" alt="Follow Pratap on GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=pratap495&amp;style=for-the-badge&amp;color=0891b2&amp;label=PROFILE+VIEWS" alt="Pratap's profile view count" />
 </div>
 
@@ -33,16 +23,15 @@
 
 <br />
 
-<!-- Replace the four project URL placeholders with public repository or product URLs. -->
 <div align="center">
   <img src="./assets/featured-projects.svg" width="100%" alt="Featured projects: HostelMint, AI Systems, ERP and POS, and FamilyMediaHub" />
 </div>
 
 <div align="center">
-  <a href="YOUR_HOSTELMINT_URL">HOSTELMINT</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="YOUR_AI_SYSTEMS_URL">AI SYSTEMS</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="YOUR_ERP_POS_URL">ERP + POS</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="YOUR_FAMILYMEDIAHUB_URL">FAMILYMEDIAHUB</a>
+  <a href="https://github.com/pratap495/hostel-mangement">HOSTELMINT</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/pratap495/Handora-AI">AI SYSTEMS</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/pratap495/pos">ERP + POS</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/pratap495?tab=repositories">ALL PROJECTS</a>
 </div>
 
 ## 📊 GitHub Analytics
@@ -71,23 +60,26 @@
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pratap495/pratap495/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through Pratap's GitHub contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratap495/pratap495/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratap495/pratap495/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/pratap495/pratap495/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated snake moving through Pratap's GitHub contribution graph" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <pre>┌──────────────────────────────────────────────────────────────┐
-│  "The best way to predict the future is to build it."       │
-│                                                              │
-│  Thanks for visiting!                                        │
-│  Let's build something amazing together.                     │
-└──────────────────────────────────────────────────────────────┘</pre>
 
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=35D9FF" alt="Connect on LinkedIn" /></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=A78BFA" alt="Visit portfolio" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=34D399" alt="Send an email" /></a>
-  <a href="YOUR_RESUME_URL"><img src="https://img.shields.io/badge/RESUME-0D1117?style=for-the-badge&amp;logo=readme&amp;logoColor=FB923C" alt="View resume" /></a>
+> “The best way to predict the future is to build it.”
 
+  Thanks for visiting. Let's build something amazing together. 🚀
+
+  <br />
+
+  <a href="https://github.com/pratap495"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=35D9FF" alt="Visit Pratap's GitHub profile" /></a>
+  <a href="https://github.com/pratap495/portfolio"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&amp;logo=vercel&amp;logoColor=A78BFA" alt="Visit Pratap's portfolio repository" /></a>
+
+  <br />
   <sub>Designed and built by <a href="https://github.com/pratap495">Pratap</a> · STATUS: BUILDING THE FUTURE ⚡</sub>
 </div>
